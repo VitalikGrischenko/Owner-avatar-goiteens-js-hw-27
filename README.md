@@ -1,1 +1,1 @@
-# Owner-avatar-goiteens-js-hw-28
+# goiteens-js-hw-28
